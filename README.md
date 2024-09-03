@@ -1,5 +1,5 @@
 # chains_viewer
-Viewer GUI for MCMC chains. You can monitor the progress of your MCMC chains. Currently support Cobaya.
+Progress monitor for MCMC chains. Support Cobaya-like chains files currently.
 # Usage
 Very easy, just:
 ```
