@@ -90,7 +90,7 @@ def start_plotting():
 
 # Create the main window
 root = ttk.Window(themename="cosmo", size=[1600, 800], scaling=2)
-root.title("Cobaya Chains Plotter")
+root.title("Chains Viewer")
 style = ttk.Style()
 style.configure('TLabel', font=('Helvetica', 12))  # Increase label font size
 style.configure('TButton', font=('Helvetica', 12))  # Increase button font size
