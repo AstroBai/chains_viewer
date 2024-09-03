@@ -1,6 +1,7 @@
 # chains_viewer
-Viewer GUI for MCMC chains
+Viewer GUI for MCMC chains. You can monitor the progress of your MCMC chains. Currently support Cobaya.
 # Usage
+Very easy, just:
 ```
 python chains_viewer.py
 ```
